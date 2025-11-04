@@ -1,0 +1,594 @@
+[11:22:55] [ServerMain/WARN]: Failed sysctl call: hw.cpufrequency, Error code: 2
+[11:22:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:22:57] [ServerMain/INFO]: Loaded 7 recipes
+[11:22:57] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[11:22:57] [Server thread/INFO]: Loading properties
+[11:22:57] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
+[11:22:57] [Server thread/INFO]: Debug logging is disabled
+[11:22:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:22:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:22:57] [Server thread/INFO]: Default game type: CREATIVE
+[11:22:57] [Server thread/INFO]: Generating keypair
+[11:22:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:22:57] [Server thread/INFO]: Using default channel type
+[11:22:57] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[11:22:58] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[11:22:58] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
+[11:22:58] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[11:22:58] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
+[11:22:58] [Server thread/INFO]: Preparing level "world"
+[11:22:58] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:22:58] [Server thread/INFO]: Mob Spawn Range: 6
+[11:22:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:22:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:22:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:22:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:22:58] [Server thread/INFO]: Max TNT Explosions: 100
+[11:22:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:22:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:22:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:22:58] [Server thread/INFO]: View Distance: 10
+[11:22:58] [Server thread/INFO]: Simulation Distance: 10
+[11:22:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:22:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:22:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:22:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:22:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:22:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:22:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:23:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:23:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:23:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:23:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:23:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[11:23:01] [Worker-Main-5/INFO]: Preparing spawn area: 84%
+[11:23:01] [Server thread/INFO]: Time elapsed: 2539 ms
+[11:23:01] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[11:23:01] [Server thread/INFO]: [SetSpawn] Enabled!
+[11:23:01] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
+[11:23:01] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
+[11:23:01] [Server thread/INFO]: [ELCI] ThreadListener Started
+[11:23:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:23:01] [Server thread/INFO]: Done (2.656s)! For help, type "help"
+[11:23:53] [User Authenticator #1/INFO]: UUID of player AayanNadeem1 is a242e865-a19c-42a8-bb3a-6200be9e9477
+[11:23:53] [Server thread/INFO]: Welcome AayanNadeem1[m
+[11:23:53] [Server thread/INFO]: AayanNadeem1 joined the game
+[11:23:53] [Server thread/INFO]: AayanNadeem1[/[0:0:0:0:0:0:0:1]:59757] logged in with entity id 81 at ([world]1230.216617218277, 168.6178725542732, 442.0137667236867)
+[11:24:15] [Thread-10/INFO]: [ELCI] Starting input thread
+[11:24:15] [Thread-11/INFO]: [ELCI] Starting output thread!
+[11:24:15] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59760.
+[11:24:15] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[11:24:15] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[11:24:15] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[11:24:16] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59760.
+[11:24:27] [Thread-12/INFO]: [ELCI] Starting input thread
+[11:24:27] [Thread-13/INFO]: [ELCI] Starting output thread!
+[11:24:27] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59762.
+[11:24:27] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[11:24:27] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[11:24:27] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[11:33:58] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59762.
+[11:34:51] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59865.
+[11:34:51] [Thread-18/INFO]: [ELCI] Starting output thread!
+[11:34:51] [Thread-17/INFO]: [ELCI] Starting input thread
+[11:34:51] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[11:34:51] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[11:34:51] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[11:34:52] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59866.
+[11:34:52] [Thread-20/INFO]: [ELCI] Starting input thread
+[11:34:52] [Thread-21/INFO]: [ELCI] Starting output thread!
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 42959 to next tick
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 88206 to next tick
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 135985 to next tick
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 183501 to next tick
+[11:34:52] [Thread-22/INFO]: [ELCI] Starting input thread
+[11:34:52] [Thread-23/INFO]: [ELCI] Starting output thread!
+[11:34:52] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59867.
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 213662 to next tick
+[11:34:52] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59865.
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 204662 to next tick
+[11:34:52] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59867.
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 195662 to next tick
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 186662 to next tick
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 177662 to next tick
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 168662 to next tick
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 159662 to next tick
+[11:34:52] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 150662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 141662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 132662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 123662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 114662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 105662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 96662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 87662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 78662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 69662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 60662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 51662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 42662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 33662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 24662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 15662 to next tick
+[11:34:53] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 6662 to next tick
+[11:34:53] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59866.
+[11:42:09] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59911.
+[11:42:09] [Thread-28/INFO]: [ELCI] Starting output thread!
+[11:42:09] [Thread-27/INFO]: [ELCI] Starting input thread
+[11:42:09] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[11:42:09] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[11:42:09] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[11:44:27] [Thread-31/INFO]: [ELCI] Starting input thread
+[11:44:27] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59922.
+[11:44:27] [Thread-32/INFO]: [ELCI] Starting output thread!
+[11:44:27] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59923.
+[11:44:27] [Thread-34/INFO]: [ELCI] Starting output thread!
+[11:44:27] [Thread-33/INFO]: [ELCI] Starting input thread
+[11:44:27] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59924.
+[11:44:27] [Thread-35/INFO]: [ELCI] Starting input thread
+[11:44:27] [Thread-36/INFO]: [ELCI] Starting output thread!
+[11:44:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 705 to next tick
+[11:44:27] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59925.
+[11:44:27] [Thread-37/INFO]: [ELCI] Starting input thread
+[11:44:27] [Thread-38/INFO]: [ELCI] Starting output thread!
+[11:44:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59911.
+[11:44:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59922.
+[11:44:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59923.
+[11:44:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59924.
+[11:44:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59925.
+[11:51:38] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60067.
+[11:51:38] [Thread-45/INFO]: [ELCI] Starting output thread!
+[11:51:38] [Thread-44/INFO]: [ELCI] Starting input thread
+[11:51:38] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[11:51:38] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[11:51:38] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[11:51:38] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 6610 to next tick
+[11:51:39] [Thread-47/INFO]: [ELCI] Starting input thread
+[11:51:39] [Thread-48/INFO]: [ELCI] Starting output thread!
+[11:51:39] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60068.
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3321 to next tick
+[11:51:39] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60069.
+[11:51:39] [Thread-50/INFO]: [ELCI] Starting output thread!
+[11:51:39] [Thread-49/INFO]: [ELCI] Starting input thread
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3320 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 33283 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 69238 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 105511 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 142367 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 180831 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 222397 to next tick
+[11:51:39] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60070.
+[11:51:39] [Thread-51/INFO]: [ELCI] Starting input thread
+[11:51:39] [Thread-52/INFO]: [ELCI] Starting output thread!
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 215001 to next tick
+[11:51:39] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60071.
+[11:51:39] [Thread-53/INFO]: [ELCI] Starting input thread
+[11:51:39] [Thread-54/INFO]: [ELCI] Starting output thread!
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 206001 to next tick
+[11:51:39] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60067.
+[11:51:39] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60068.
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 197001 to next tick
+[11:51:39] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60070.
+[11:51:39] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60071.
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 188001 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 179001 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 170001 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 161001 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 152001 to next tick
+[11:51:39] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 143001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 134001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 125001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 116001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 107001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 98001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 89001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 80001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 71001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 62001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 53001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 44001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 35001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 26001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 17001 to next tick
+[11:51:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 8001 to next tick
+[11:51:40] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60069.
+[12:20:24] [Thread-67/INFO]: [ELCI] Starting input thread
+[12:20:24] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60208.
+[12:20:24] [Thread-68/INFO]: [ELCI] Starting output thread!
+[12:20:24] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[12:20:24] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[12:20:24] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[12:20:24] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 10502 to next tick
+[12:20:24] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 1502 to next tick
+[12:20:25] [Thread-69/INFO]: [ELCI] Starting input thread
+[12:20:25] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60209.
+[12:20:25] [Thread-70/INFO]: [ELCI] Starting output thread!
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3321 to next tick
+[12:20:25] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60210.
+[12:20:25] [Thread-71/INFO]: [ELCI] Starting input thread
+[12:20:25] [Thread-72/INFO]: [ELCI] Starting output thread!
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3320 to next tick
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 33101 to next tick
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 70511 to next tick
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 112175 to next tick
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 145550 to next tick
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 189416 to next tick
+[12:20:25] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60211.
+[12:20:25] [Thread-73/INFO]: [ELCI] Starting input thread
+[12:20:25] [Thread-74/INFO]: [ELCI] Starting output thread!
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 224001 to next tick
+[12:20:25] [Thread-75/INFO]: [ELCI] Starting input thread
+[12:20:25] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60212.
+[12:20:25] [Thread-76/INFO]: [ELCI] Starting output thread!
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 215001 to next tick
+[12:20:25] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60208.
+[12:20:25] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60209.
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 206001 to next tick
+[12:20:25] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60211.
+[12:20:25] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60212.
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 197001 to next tick
+[12:20:25] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 188001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 179001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 170001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 161001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 152001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 143001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 134001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 125001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 116001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 107001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 98001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 89001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 80001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 71001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 62001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 53001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 44001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 35001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 26001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 17001 to next tick
+[12:20:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 8001 to next tick
+[12:20:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60210.
+[12:24:06] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60230.
+[12:24:06] [Thread-77/INFO]: [ELCI] Starting input thread
+[12:24:06] [Thread-78/INFO]: [ELCI] Starting output thread!
+[12:24:06] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[12:24:06] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[12:24:06] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[12:24:06] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 15800 to next tick
+[12:24:06] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 51098 to next tick
+[12:24:06] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 42098 to next tick
+[12:24:06] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 33098 to next tick
+[12:24:06] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 24098 to next tick
+[12:24:07] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 15098 to next tick
+[12:24:07] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 6098 to next tick
+[12:24:07] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60231.
+[12:24:07] [Thread-79/INFO]: [ELCI] Starting input thread
+[12:24:07] [Thread-80/INFO]: [ELCI] Starting output thread!
+[12:24:07] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3321 to next tick
+[12:24:07] [Thread-82/INFO]: [ELCI] Starting output thread!
+[12:24:07] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60232.
+[12:24:07] [Thread-81/INFO]: [ELCI] Starting input thread
+[12:24:07] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3308 to next tick
+[12:24:07] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 27612 to next tick
+[12:24:07] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 58122 to next tick
+[12:24:07] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 92737 to next tick
+[12:24:07] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60233.
+[12:24:07] [Thread-83/INFO]: [ELCI] Starting input thread
+[12:24:07] [Thread-84/INFO]: [ELCI] Starting output thread!
+[12:24:07] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 104355 to next tick
+[12:24:07] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60234.
+[12:24:07] [Thread-85/INFO]: [ELCI] Starting input thread
+[12:24:07] [Thread-86/INFO]: [ELCI] Starting output thread!
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 95355 to next tick
+[12:24:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60230.
+[12:24:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60231.
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 86355 to next tick
+[12:24:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60233.
+[12:24:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60234.
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 77355 to next tick
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 68355 to next tick
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 59355 to next tick
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 50355 to next tick
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 41355 to next tick
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 32355 to next tick
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 23355 to next tick
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 14355 to next tick
+[12:24:08] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 5355 to next tick
+[12:24:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60232.
+[12:29:40] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60267.
+[12:29:40] [Thread-89/INFO]: [ELCI] Starting input thread
+[12:29:40] [Thread-90/INFO]: [ELCI] Starting output thread!
+[12:29:40] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[12:29:40] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[12:29:40] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[12:29:40] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 8037 to next tick
+[12:29:41] [Thread-91/INFO]: [ELCI] Starting input thread
+[12:29:41] [Thread-92/INFO]: [ELCI] Starting output thread!
+[12:29:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60268.
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3321 to next tick
+[12:29:41] [Thread-94/INFO]: [ELCI] Starting output thread!
+[12:29:41] [Thread-93/INFO]: [ELCI] Starting input thread
+[12:29:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60269.
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3320 to next tick
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 29248 to next tick
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 68319 to next tick
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 104241 to next tick
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 140351 to next tick
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 177815 to next tick
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 218462 to next tick
+[12:29:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60270.
+[12:29:41] [Thread-96/INFO]: [ELCI] Starting output thread!
+[12:29:41] [Thread-95/INFO]: [ELCI] Starting input thread
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 215001 to next tick
+[12:29:41] [Thread-98/INFO]: [ELCI] Starting output thread!
+[12:29:41] [Thread-97/INFO]: [ELCI] Starting input thread
+[12:29:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60271.
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 206001 to next tick
+[12:29:41] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60267.
+[12:29:41] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60268.
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 197001 to next tick
+[12:29:41] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60270.
+[12:29:41] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60271.
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 188001 to next tick
+[12:29:41] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 179001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 170001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 161001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 152001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 143001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 134001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 125001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 116001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 107001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 98001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 89001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 80001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 71001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 62001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 53001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 44001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 35001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 26001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 17001 to next tick
+[12:29:42] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 8001 to next tick
+[12:29:43] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60269.
+[12:34:13] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60293.
+[12:34:13] [Thread-100/INFO]: [ELCI] Starting input thread
+[12:34:13] [Thread-101/INFO]: [ELCI] Starting output thread!
+[12:34:13] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[12:34:13] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[12:34:13] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[12:34:15] [Thread-103/INFO]: [ELCI] Starting input thread
+[12:34:15] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60294.
+[12:34:15] [Thread-104/INFO]: [ELCI] Starting output thread!
+[12:34:16] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60295.
+[12:34:16] [Thread-106/INFO]: [ELCI] Starting output thread!
+[12:34:16] [Thread-105/INFO]: [ELCI] Starting input thread
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 1203 to next tick
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 43435 to next tick
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 90709 to next tick
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 134852 to next tick
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 176960 to next tick
+[12:34:16] [Thread-107/INFO]: [ELCI] Starting input thread
+[12:34:16] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60296.
+[12:34:16] [Thread-108/INFO]: [ELCI] Starting output thread!
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 198717 to next tick
+[12:34:16] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60297.
+[12:34:16] [Thread-110/INFO]: [ELCI] Starting output thread!
+[12:34:16] [Thread-109/INFO]: [ELCI] Starting input thread
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 189717 to next tick
+[12:34:16] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60293.
+[12:34:16] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60294.
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 180717 to next tick
+[12:34:16] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60296.
+[12:34:16] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60297.
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 171717 to next tick
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 162717 to next tick
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 153717 to next tick
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 144717 to next tick
+[12:34:16] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 135717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 126717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 117717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 108717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 99717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 90717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 81717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 72717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 63717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 54717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 45717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 36717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 27717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 18717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 9717 to next tick
+[12:34:17] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 717 to next tick
+[12:34:17] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60295.
+[12:36:21] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60306.
+[12:36:21] [Thread-114/INFO]: [ELCI] Starting input thread
+[12:36:21] [Thread-115/INFO]: [ELCI] Starting output thread!
+[12:36:21] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[12:36:21] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[12:36:21] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[12:36:21] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3536 to next tick
+[12:36:22] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60307.
+[12:36:22] [Thread-116/INFO]: [ELCI] Starting input thread
+[12:36:22] [Thread-117/INFO]: [ELCI] Starting output thread!
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3321 to next tick
+[12:36:22] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60308.
+[12:36:22] [Thread-118/INFO]: [ELCI] Starting input thread
+[12:36:22] [Thread-119/INFO]: [ELCI] Starting output thread!
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3320 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 29204 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 65400 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 99979 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 138100 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 176848 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 217583 to next tick
+[12:36:22] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60309.
+[12:36:22] [Thread-120/INFO]: [ELCI] Starting input thread
+[12:36:22] [Thread-121/INFO]: [ELCI] Starting output thread!
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 211055 to next tick
+[12:36:22] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60310.
+[12:36:22] [Thread-123/INFO]: [ELCI] Starting output thread!
+[12:36:22] [Thread-122/INFO]: [ELCI] Starting input thread
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 202055 to next tick
+[12:36:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60306.
+[12:36:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60307.
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 193055 to next tick
+[12:36:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60309.
+[12:36:22] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60310.
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 184055 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 175055 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 166055 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 157055 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 148055 to next tick
+[12:36:22] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 139055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 130055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 121055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 112055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 103055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 94055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 85055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 76055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 67055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 58055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 49055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 40055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 31055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 22055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 13055 to next tick
+[12:36:23] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 4055 to next tick
+[12:36:23] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60308.
+[12:40:09] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60365.
+[12:40:09] [Thread-126/INFO]: [ELCI] Starting input thread
+[12:40:09] [Thread-127/INFO]: [ELCI] Starting output thread!
+[12:40:09] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[12:40:09] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[12:40:09] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[12:40:09] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 9263 to next tick
+[12:40:09] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 35653 to next tick
+[12:40:09] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 26653 to next tick
+[12:40:09] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 17653 to next tick
+[12:40:09] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 8653 to next tick
+[12:40:29] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60370.
+[12:40:29] [Thread-128/INFO]: [ELCI] Starting input thread
+[12:40:29] [Thread-129/INFO]: [ELCI] Starting output thread!
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 2337 to next tick
+[12:40:30] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60371.
+[12:40:30] [Thread-131/INFO]: [ELCI] Starting output thread!
+[12:40:30] [Thread-130/INFO]: [ELCI] Starting input thread
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 2627 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 33801 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 67808 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 107552 to next tick
+[12:40:30] [Thread-132/INFO]: [ELCI] Starting input thread
+[12:40:30] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60372.
+[12:40:30] [Thread-133/INFO]: [ELCI] Starting output thread!
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 107540 to next tick
+[12:40:30] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60373.
+[12:40:30] [Thread-135/INFO]: [ELCI] Starting output thread!
+[12:40:30] [Thread-134/INFO]: [ELCI] Starting input thread
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 98540 to next tick
+[12:40:30] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60365.
+[12:40:30] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60370.
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 89540 to next tick
+[12:40:30] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60372.
+[12:40:30] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60373.
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 80540 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 71540 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 62540 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 53540 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 44540 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 35540 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 26540 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 17540 to next tick
+[12:40:30] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 8540 to next tick
+[12:40:31] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60371.
+[12:41:06] [Server thread/INFO]: AayanNadeem1 issued server command: /tp 850 69 588
+[12:41:06] [Server thread/INFO]: [AayanNadeem1: Teleported AayanNadeem1 to 850.500000, 69.000000, 588.500000]
+[12:43:25] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60387.
+[12:43:25] [Thread-139/INFO]: [ELCI] Starting output thread!
+[12:43:25] [Thread-138/INFO]: [ELCI] Starting input thread
+[12:43:25] [Server thread/INFO]: [AayanNadeem1: Set the weather to clear]
+[12:43:25] [Server thread/INFO]: [AayanNadeem1: Gamerule doWeatherCycle is now set to: false]
+[12:43:25] [Server thread/INFO]: [AayanNadeem1: Set the time to 1000]
+[12:43:26] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60389.
+[12:43:26] [Thread-140/INFO]: [ELCI] Starting input thread
+[12:43:26] [Thread-141/INFO]: [ELCI] Starting output thread!
+[12:43:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3321 to next tick
+[12:43:26] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60390.
+[12:43:26] [Thread-142/INFO]: [ELCI] Starting input thread
+[12:43:26] [Thread-143/INFO]: [ELCI] Starting output thread!
+[12:43:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 3320 to next tick
+[12:43:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 35717 to next tick
+[12:43:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 73778 to next tick
+[12:43:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 115840 to next tick
+[12:43:26] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 157410 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 198857 to next tick
+[12:43:27] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60391.
+[12:43:27] [Thread-145/INFO]: [ELCI] Starting output thread!
+[12:43:27] [Thread-144/INFO]: [ELCI] Starting input thread
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 224001 to next tick
+[12:43:27] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60392.
+[12:43:27] [Thread-146/INFO]: [ELCI] Starting input thread
+[12:43:27] [Thread-147/INFO]: [ELCI] Starting output thread!
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 215001 to next tick
+[12:43:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60387.
+[12:43:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60389.
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 206001 to next tick
+[12:43:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60391.
+[12:43:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60392.
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 197001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 188001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 179001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 170001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 161001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 152001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 143001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 134001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 125001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 116001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 107001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 98001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 89001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 80001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 71001 to next tick
+[12:43:27] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 62001 to next tick
+[12:43:28] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 53001 to next tick
+[12:43:28] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 44001 to next tick
+[12:43:28] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 35001 to next tick
+[12:43:28] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 26001 to next tick
+[12:43:28] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 17001 to next tick
+[12:43:28] [Server thread/WARN]: [ELCI] Over 9000 commands were queued - deferring 8001 to next tick
+[12:43:28] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60390.
+[13:08:21] [Server thread/INFO]: AayanNadeem1 lost connection: Disconnected
+[13:08:21] [Server thread/INFO]: AayanNadeem1 left the game
+[13:09:05] [User Authenticator #2/INFO]: UUID of player AayanNadeem1 is a242e865-a19c-42a8-bb3a-6200be9e9477
+[13:09:05] [Server thread/INFO]: Welcome AayanNadeem1[m
+[13:09:05] [Server thread/INFO]: AayanNadeem1 joined the game
+[13:09:05] [Server thread/INFO]: AayanNadeem1[/[0:0:0:0:0:0:0:1]:60524] logged in with entity id 12004 at ([world]851.5028232735832, 109.90193329862939, 580.8242457209658)
+[13:09:08] [Server thread/INFO]: AayanNadeem1 lost connection: Disconnected
+[13:09:08] [Server thread/INFO]: AayanNadeem1 left the game
+[13:17:12] [User Authenticator #3/INFO]: UUID of player AayanNadeem1 is a242e865-a19c-42a8-bb3a-6200be9e9477
+[13:17:12] [Server thread/INFO]: Welcome AayanNadeem1[m
+[13:17:12] [Server thread/INFO]: AayanNadeem1 joined the game
+[13:17:12] [Server thread/INFO]: AayanNadeem1[/[0:0:0:0:0:0:0:1]:60614] logged in with entity id 12137 at ([world]851.5028232735832, 109.90193329862939, 580.8242457209658)
+[13:17:23] [Server thread/INFO]: AayanNadeem1 lost connection: Disconnected
+[13:17:23] [Server thread/INFO]: AayanNadeem1 left the game
