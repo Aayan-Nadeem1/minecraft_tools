@@ -596,3 +596,27 @@
 [13:18:39] [Server thread/INFO]: Welcome AayanNadeem1[m
 [13:18:39] [Server thread/INFO]: AayanNadeem1 joined the game
 [13:18:39] [Server thread/INFO]: AayanNadeem1[/[0:0:0:0:0:0:0:1]:60679] logged in with entity id 12302 at ([world]850.5143032912209, 109.90193329862939, 558.4274268521765)
+[13:23:46] [Server thread/INFO]: AayanNadeem1 lost connection: Disconnected
+[13:23:46] [Server thread/INFO]: AayanNadeem1 left the game
+[13:25:34] [User Authenticator #5/INFO]: UUID of player AayanNadeem1 is a242e865-a19c-42a8-bb3a-6200be9e9477
+[13:25:34] [Server thread/INFO]: Welcome AayanNadeem1[m
+[13:25:34] [Server thread/INFO]: AayanNadeem1 joined the game
+[13:25:34] [Server thread/INFO]: AayanNadeem1[/[0:0:0:0:0:0:0:1]:60819] logged in with entity id 13084 at ([world]76.5, 78.0, -10.5)
+[13:26:24] [Server thread/INFO]: AayanNadeem1 lost connection: Disconnected
+[13:26:24] [Server thread/WARN]: Failed to save player data for AayanNadeem1
+[13:26:24] [Server thread/INFO]: AayanNadeem1 left the game
+[13:26:26] [Thread-2/INFO]: Stopping server
+[13:26:26] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:263) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:117) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
